@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sevendirnt.github.io/rsschool-cv/cv
